@@ -1,0 +1,28 @@
+var files_dup =
+[
+    [ "Assert007.c", "_assert007_8c.html", "_assert007_8c" ],
+    [ "Assert007.h", "_assert007_8h.html", "_assert007_8h" ],
+    [ "DocIdMap.c", "_doc_id_map_8c.html", "_doc_id_map_8c" ],
+    [ "DocIdMap.h", "_doc_id_map_8h.html", "_doc_id_map_8h" ],
+    [ "DocSet.c", "_doc_set_8c.html", "_doc_set_8c" ],
+    [ "DocSet.h", "_doc_set_8h.html", "_doc_set_8h" ],
+    [ "example_indexer.c", "example__indexer_8c.html", "example__indexer_8c" ],
+    [ "FileCrawler.c", "_file_crawler_8c.html", "_file_crawler_8c" ],
+    [ "FileCrawler.h", "_file_crawler_8h.html", "_file_crawler_8h" ],
+    [ "FileParser.c", "_file_parser_8c.html", "_file_parser_8c" ],
+    [ "FileParser.h", "_file_parser_8h.html", "_file_parser_8h" ],
+    [ "main.c", "main_8c.html", "main_8c" ],
+    [ "Movie.c", "_movie_8c.html", "_movie_8c" ],
+    [ "Movie.h", "_movie_8h.html", "_movie_8h" ],
+    [ "MovieIndex.c", "_movie_index_8c.html", "_movie_index_8c" ],
+    [ "MovieIndex.h", "_movie_index_8h.html", "_movie_index_8h" ],
+    [ "MovieReport.c", "_movie_report_8c.html", "_movie_report_8c" ],
+    [ "MovieReport.h", "_movie_report_8h.html", "_movie_report_8h" ],
+    [ "MovieSet.c", "_movie_set_8c.html", "_movie_set_8c" ],
+    [ "MovieSet.h", "_movie_set_8h.html", "_movie_set_8h" ],
+    [ "QueryProcessor.c", "_query_processor_8c.html", "_query_processor_8c" ],
+    [ "QueryProcessor.h", "_query_processor_8h.html", "_query_processor_8h" ],
+    [ "test_fileparser.cc", "test__fileparser_8cc.html", "test__fileparser_8cc" ],
+    [ "test_movieindex.cc", "test__movieindex_8cc.html", "test__movieindex_8cc" ],
+    [ "test_suite_a4.cc", "test__suite__a4_8cc.html", "test__suite__a4_8cc" ]
+];
