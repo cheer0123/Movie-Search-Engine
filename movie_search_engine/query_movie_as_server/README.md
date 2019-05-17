@@ -1,4 +1,4 @@
-# Final Project Binaries
+# Binaries
 
 To run the binaries, you need to be sure to point them to the
 correct data directories.
